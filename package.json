@@ -7,7 +7,7 @@
     "start": "SET NODE_ENV=production & node app.js",
     "dev": "nodemon app"
   },
-  "author": "Ghulam Abbas",
+  "author": "Alex Cocan",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
