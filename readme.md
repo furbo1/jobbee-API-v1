@@ -5,5 +5,4 @@
 ```
 npm i
 ```
-## Config.env
-Replace all environment variables values with your's.
+Use Postman to test the application.
